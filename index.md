@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my amazing beeblog
 
 I'm glad you are here. I plan to talk about ...
